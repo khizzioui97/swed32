@@ -1,5 +1,5 @@
 # swed32
-makes ReadProcessMemory and WriteProcessMemroy easier :)
+makes ReadProcessMemory and WriteProcessMemory easier :)
 
 
 Check out the channel if you want a tutorial.
